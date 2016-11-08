@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"Hello this is demo for Github......");
 }
 
 - (void)didReceiveMemoryWarning {
